@@ -14,7 +14,7 @@ Antes de ejecutar el proyecto, asegúrate de cumplir con los siguientes requisit
 
 1. **Clonar el repositorio**
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Djespinosa/login_php.git
    cd tu-repositorio
    ```
 
