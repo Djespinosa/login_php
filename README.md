@@ -15,7 +15,6 @@ Antes de ejecutar el proyecto, asegúrate de cumplir con los siguientes requisit
 1. **Clonar el repositorio**
    ```sh
    git clone https://github.com/Djespinosa/login_php.git
-   cd tu-repositorio
    ```
 
 2. **Configurar la base de datos**
@@ -56,7 +55,7 @@ Para iniciar el servidor localmente, usa el archivo `start.bat` incluido en el p
 ## Estructura del Proyecto
 
 ```
-proyecto_carepp/
+login_php/
 ├── classes/
 │   ├── UserConnection.php  # Clase para la conexión a la base de datos del cliente
 │   ├── Auth.php  # Clase para la autenticación usuario
