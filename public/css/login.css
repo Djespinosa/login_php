@@ -1,0 +1,39 @@
+.gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #CCCCCC;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #CCCCCC, #ADADAD);
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #1E5675;
+    }
+
+    .col-lg-6 {
+        background: #f7f7f7;
+    }
+
+    .btn-hover {
+        color: #1E5675;
+        background: #f7f7f7;
+        border: solid #1E5675 2px;
+    }
+
+    .btn-hover:hover {
+        color: #f7f7f7;
+        background: #1E5675;
+        transition: 0.3s ease-in-out;
+    }
+    
+
+    @media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh !important;
+    }
+    }
+    @media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }
